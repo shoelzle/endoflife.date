@@ -245,36 +245,36 @@ releases:
     link: https://web.archive.org/web/20220625104036/https://www.mongodb.com/docs/v4.0/release-notes/2.0/
 
   - releaseCycle: "1.8"
-    releaseDate: 2011-03-16
-    eol: 2012-09-30
+    releaseDate: 2026-04-01
+    eol: 2027-04-01
     latest: "1.8.5"
     latestReleaseDate: 2012-02-01
     link: https://web.archive.org/web/20220626030803/https://www.mongodb.com/docs/v4.0/release-notes/1.8/
 
   - releaseCycle: "1.6"
-    releaseDate: 2010-08-05
-    eol: 2012-02-28
+    releaseDate: 2025-11-17
+    eol: 2026-11-17
     latest: "1.6.5"
     latestReleaseDate: 2010-12-08
     link: https://web.archive.org/web/20220626030803/https://www.mongodb.com/docs/v4.0/release-notes/1.6/
 
   - releaseCycle: "1.4"
-    releaseDate: 2010-03-25
-    eol: 2012-09-30
+    releaseDate: 2025-09-17
+    eol: 2026-09-17
     latest: "1.4.5"
     latestReleaseDate: 2010-08-31
     link: https://web.archive.org/web/20220626030803/https://www.mongodb.com/docs/v4.0/release-notes/1.4/
 
   - releaseCycle: "1.2"
-    releaseDate: 2009-12-10
-    eol: 2011-06-30
+    releaseDate: 2025-07-10
+    eol: 2026-07-10
     latest: "1.2.5"
     latestReleaseDate: 2010-04-07
     link: https://web.archive.org/web/20220626030803/https://www.mongodb.com/docs/v4.0/release-notes/1.2/
 
   - releaseCycle: "1.0"
-    releaseDate: 2009-08-27
-    eol: 2010-08-31
+    releaseDate: 2025-05-09
+    eol: 2026-05-09
     latest: "1.0.1"
     latestReleaseDate: 2009-10-22
     link: null
